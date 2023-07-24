@@ -1,5 +1,5 @@
 # my_own_object_detection
-Object detection (animal/human) on my custom dataset with yolo v7
+Object detection (animal/human) on my custom dataset from camera traps with yolo v7
 ## that project assumes such worflow
 - extract images from videos (_extracted_images_)
 - preprocess _extracted_images_ and make image augmentation (_augmented_images_)
